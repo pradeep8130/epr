@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/epr/static/css/main.a6977d0b.chunk.css",
+    "main.js": "/epr/static/js/main.aa45463a.chunk.js",
+    "main.js.map": "/epr/static/js/main.aa45463a.chunk.js.map",
+    "runtime-main.js": "/epr/static/js/runtime-main.3ff852be.js",
+    "runtime-main.js.map": "/epr/static/js/runtime-main.3ff852be.js.map",
+    "static/css/2.27dd871e.chunk.css": "/epr/static/css/2.27dd871e.chunk.css",
+    "static/js/2.80c9e1e7.chunk.js": "/epr/static/js/2.80c9e1e7.chunk.js",
+    "static/js/2.80c9e1e7.chunk.js.map": "/epr/static/js/2.80c9e1e7.chunk.js.map",
+    "static/js/3.933bb36a.chunk.js": "/epr/static/js/3.933bb36a.chunk.js",
+    "static/js/3.933bb36a.chunk.js.map": "/epr/static/js/3.933bb36a.chunk.js.map",
+    "index.html": "/epr/index.html",
+    "static/css/2.27dd871e.chunk.css.map": "/epr/static/css/2.27dd871e.chunk.css.map",
+    "static/css/main.a6977d0b.chunk.css.map": "/epr/static/css/main.a6977d0b.chunk.css.map",
+    "static/js/2.80c9e1e7.chunk.js.LICENSE.txt": "/epr/static/js/2.80c9e1e7.chunk.js.LICENSE.txt",
+    "static/media/Extreme-Pools-Home-page-photo-1-672x446.f2c1e46b.jpg": "/epr/static/media/Extreme-Pools-Home-page-photo-1-672x446.f2c1e46b.jpg",
+    "static/media/Home-Page-outdoor-living-spaces-368x453.18574603.jpg": "/epr/static/media/Home-Page-outdoor-living-spaces-368x453.18574603.jpg",
+    "static/media/Home-page-inground-pools-368x453.60786a7b.jpg": "/epr/static/media/Home-page-inground-pools-368x453.60786a7b.jpg",
+    "static/media/address.8f39c3ca.svg": "/epr/static/media/address.8f39c3ca.svg",
+    "static/media/banner-img.e7d00244.jpg": "/epr/static/media/banner-img.e7d00244.jpg",
+    "static/media/custom-outdoor.ff96eac0.webp": "/epr/static/media/custom-outdoor.ff96eac0.webp",
+    "static/media/custom-pool.200899b8.jpg": "/epr/static/media/custom-pool.200899b8.jpg",
+    "static/media/designed-spas.8ead68a9.webp": "/epr/static/media/designed-spas.8ead68a9.webp",
+    "static/media/email.3abf6b72.svg": "/epr/static/media/email.3abf6b72.svg",
+    "static/media/gallery-img.f3589fe8.webp": "/epr/static/media/gallery-img.f3589fe8.webp",
+    "static/media/gallery.e59c44ed.jpg": "/epr/static/media/gallery.e59c44ed.jpg",
+    "static/media/home-hero.a10881b1.webp": "/epr/static/media/home-hero.a10881b1.webp",
+    "static/media/logo.b857f1de.png": "/epr/static/media/logo.b857f1de.png",
+    "static/media/custom.css": "/epr/static/media/parallax-bg.9248c945.png",
+    "static/media/phone.5f257426.svg": "/epr/static/media/phone.5f257426.svg",
+    "static/media/pool-process.9a444090.jpg": "/epr/static/media/pool-process.9a444090.jpg",
+    "static/media/fonts.css": "/epr/static/media/roboto-regular-webfont.f8502ba0.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ff852be.js",
+    "static/css/2.27dd871e.chunk.css",
+    "static/js/2.80c9e1e7.chunk.js",
+    "static/css/main.a6977d0b.chunk.css",
+    "static/js/main.aa45463a.chunk.js"
+  ]
+}
