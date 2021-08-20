@@ -15,7 +15,7 @@ export default function header() {
                 <div className="row  h-100">
                     <div className="col-md-3 col-4">
                                     <div className="siteLogo">
-                                        <a href="/epr">
+                                        <a href="/">
                                           <img src={logo} className="img-responsive" alt="Extreme pools Renovations" title="Extreme pools Renovations" />
                                         </a>
                                 </div>
