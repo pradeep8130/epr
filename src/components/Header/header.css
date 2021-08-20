@@ -1,0 +1,9 @@
+@media (min-width:1300px) { .container { max-width: 1205px; } .site-header   .container{ max-width:1280px} }
+@media (min-width:1300px){ .site-header   .container{ max-width:1480px} }
+.header-wrap{ position:fixed; width:100%; top: 0px; z-index:9 }
+.header-top-bar{ min-height:45px;}
+.header-top-bar a{ font-family: 'robotobold';text-decoration:none; }
+.header-top-bar a:hover{  text-decoration:underline; }
+header.site-header { width: 100%; z-index: 9; transition: all 0.5s ease 0s;  background: rgba(255, 255, 255); height:86px;	 box-shadow: rgb(0 0 0 / 72%) 3px 0px 23px; }
+header.site-header .siteLogo{  width:345px; position:absolute; top:9px; z-index:99;  transition: all 0.5s ease 0s;}
+header.site-header.stricky {  top: 0px ; height: 63px; box-shadow: rgb(0 0 0 / 20%) 2px 0px 10px;}
